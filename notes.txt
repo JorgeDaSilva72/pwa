@@ -1,0 +1,4 @@
+API  https://www.themoviedb.org/?language=fr​  
+ma cle  auth v3:  af5855be45679d3a53188b886986d23c
+pour la doc sur l'API:
+https://developers.themoviedb.org/3/getting-started/search-and-query-for-details
